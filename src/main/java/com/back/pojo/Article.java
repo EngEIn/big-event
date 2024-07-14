@@ -1,7 +1,7 @@
 package com.back.pojo;
 
 
-import com.itheima.bigevent.anno.State;
+import com.back.anno.State;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;
